@@ -1,7 +1,8 @@
 # fsfuzzer-0.7
 
 This github repo is just a mirror of the original files located at:
-(https://www.ee.oulu.fi/research/ouspg/fsfuzzer)
+
+https://www.ee.oulu.fi/research/ouspg/fsfuzzer
 
 The original README was prettified as the following.
 
@@ -93,11 +94,12 @@ sure the module is loaded. Look at xfs again for the basic recipe.
 
 Have fun...
 
--Steve // Oct 2006
+-Steve 
+Oct 2006
 
 Modified for GitHub use
-
--Sid // Sep 2011
+-Sid
+Sep 2011
 
 > All rights and content are owned by their respective owners.
 
