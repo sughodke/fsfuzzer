@@ -7,9 +7,13 @@ https://www.ee.oulu.fi/research/ouspg/fsfuzzer
 The original README was prettified as the following.
 
 ## Introduction/Building
-This is a quick start guide to fsfuzz. To get started, type
-"make" and let it finish. You do not need to install the program
-anywhere, just use it right where you unpack it.
+This is a quick start guide to fsfuzz. To get started run:
+
+    ./configure
+    make
+
+You do not need to install the program anywhere, just use it right where you
+unpack it.
 
 ## Background
 I met LMH at the 2006 SE Linux Symposium. He showed me some file 
